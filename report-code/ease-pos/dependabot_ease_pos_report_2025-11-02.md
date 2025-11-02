@@ -31,3 +31,4 @@ A detailed CSV file was created:
 ---
 
 ✅ **Report generated successfully:** `dependabot_report_2025-11-02.md`
+
